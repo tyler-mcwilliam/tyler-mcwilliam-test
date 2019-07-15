@@ -1,5 +1,4 @@
-jseppi.github.io
+tyler-mcwilliam.github.io
 =================
 
-Source for my GitHub Pages portfolio site https://jseppi.github.io
-
+Source for my GitHub Pages portfolio site
